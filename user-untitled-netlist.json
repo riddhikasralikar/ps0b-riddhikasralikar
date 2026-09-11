@@ -1,0 +1,1 @@
+[{"type":"xor2","connections":{"z":"1","b":"b","a":"a"},"properties":{"name":"xor2_1","tcd":3e-11,"tpd":1.4e-10,"tr":4500,"tf":2500,"cin":6e-15,"size":27}},{"type":"xor2","connections":{"z":"s","b":"cin","a":"1"},"properties":{"name":"xor2_2","tcd":3e-11,"tpd":1.4e-10,"tr":4500,"tf":2500,"cin":6e-15,"size":27}}]
